@@ -3,6 +3,8 @@
 Crowd counting on the ShanghaiTech dataset, using multi-column convolutional neural networks.</br>
 
 This is an unofficial implementation of CVPR 2016 paper "Single Image Crowd Counting via Multi Column Convolutional Neural Network". </br>
+</br>
+Note: Predictions can be made. The work on heatmap generation in under progress.</br>
 
 # Installation
 - Install Tensorflow and Keras </br>
